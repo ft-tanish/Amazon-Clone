@@ -14,7 +14,7 @@ function App() {
                 <h1>Login page</h1>
               </Router>
               <Route path="/">
-                <h1>HOME PAGE!!!</h1>
+                <h1>HOME PAGE</h1>
               </Route>
             </Routes>
           </div>
